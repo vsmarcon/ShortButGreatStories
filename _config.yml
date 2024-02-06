@@ -16,14 +16,14 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Vinicius'
+author: 'Vinicius'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
 url: "http://vsmarcon.github.io/ShortButGreatStories" # the base hostname & protocol for your site
-baseurl: "ShortButGreatStories"
+baseurl: "/ShortButGreatStories"
 #used to display twitter cards
 #twitter_handle: '@dirkfabisch'
 
