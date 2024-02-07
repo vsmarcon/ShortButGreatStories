@@ -40,13 +40,6 @@ social:
     # share_url: http://twitter.com/share
     # share_title: ?text=
     # share_link: "&amp;url="
-  - icon:	instagram
-    url:	https://instagram.com/_marc0n
-    desc: Follow me on Instagram
-    # share_url: http://twitter.com/share
-    # share_title: ?text=
-    # share_link: "&amp;url="
-
   - icon:	mug-hot
     url:	https://www.buymeacoffee.com/vinicius.desouzamarcon/
     desc: Buy me a Coffee
