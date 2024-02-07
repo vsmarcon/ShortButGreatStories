@@ -4,17 +4,17 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Short But Great Stories"
 description: > # this means to ignore newlines until "email:"
-   A Short Stories Blog
+   Projeto de escrita independente, mas sou dependente de alma da escrita.
 
 # email: a-mail@mail.mail
 #blog logo
-logo: "/assets/images/profile_picture.jpeg"
-float_logo: true # true, false (default)
+# logo: "/assets/images/profile_picture.jpeg"
+# float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/background_image_2.png"
 
 name: 'Vinicius de Souza Marcon'
 author: 'Vinicius de Souza Marcon'
@@ -40,10 +40,16 @@ social:
     # share_url: http://twitter.com/share
     # share_title: ?text=
     # share_link: "&amp;url="
+  - icon:	instagram
+    url:	https://instagram.com/_marc0n
+    desc: Follow me on Instagram
+    # share_url: http://twitter.com/share
+    # share_title: ?text=
+    # share_link: "&amp;url="
 
-#  - icon:	facebook
-#    url:	https://www.facebook.com/vinicius.desouzamarcon/
-#    desc: Connect with me facebook
+  - icon:	mug-hot
+    url:	https://www.buymeacoffee.com/vinicius.desouzamarcon/
+    desc: Buy me a Coffee
 #    share_url: https://www.facebook.com/sharer.php
 #    share_title: ?t=
 #    share_link: "&amp;u="
