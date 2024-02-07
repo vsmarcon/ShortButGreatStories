@@ -4,7 +4,7 @@ title:  "Uma amarga noite de outono"
 date:   2024-02-07 14:34:25
 categories: horror
 tags: featured
-image: /assets/images/background_image_2.png
+image: /assets/images/background_image_3.png
 ---
 # Uma amarga noite de outono
 
