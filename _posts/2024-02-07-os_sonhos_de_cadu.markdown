@@ -3,7 +3,7 @@ layout: post
 title:  "Os Sonhos de Cadu"
 date:   2024-02-07 19:30:25
 categories: drama
-image: /assets/images/background_image_3.png
+image: /assets/images/dreams.jpg
 ---
   O Cadu é um típico jovem, mas não tão típico assim. Ele tem um dom, uma vantagem, que para muitos seria Deus o responsável – mas até o final deste relato, gostaria de provar que tal habilidade foi na verdade concedida pelo Diabo, em uma das suas tentativas de tentar o homem e perverter a alma.	Quando criança mais jovem, por volta dos 8 anos, ainda em sua ingenuidade e inocência, Cadu teve um sonho muito marcante. Um anjo belo descia e contatava-o diretamente. Tal ser ofereceu a possibilidade de que garoto realizasse desejos ilimitados e irrestritos, através de seus sonhos. O garoto não hesitou em aceitar a proposta – já pensava em todos os videogames e brinquedos que poderia ter através dos desejos. Vendo a excitação da criança, o anjo advertiu: “uma vez sonhado, garoto, será realizado”. 		
   
