@@ -8,10 +8,10 @@ title: "Short But Great Stories"
 description: > # this means to ignore newlines until "email:"
    Projeto de escrita independente, mas sou dependente de alma da escrita.
 
-# email: a-mail@mail.mail
+email: a-mail@mail.mail
 #blog logo
-# logo: "/assets/images/profile_picture.jpeg"
-# float_logo: true # true, false (default)
+logo: "/assets/images/profile_picture.jpeg"
+float_logo: true # true, false (default)
 
 # blog cover
 cover: "/assets/images/background_image_2.png"
