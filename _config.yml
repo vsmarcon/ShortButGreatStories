@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "email:"
 
 email: viniciussouza31122002@gmail.com
 #blog logo
-logo: "/assets/images/sbgs_logo.png"
+logo: "assets/images/SBGS_logo2_wb.png"
 float_logo: true # true, false (default)
 
 # blog cover
