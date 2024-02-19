@@ -2,6 +2,7 @@
 layout: page
 title: Sobre o projeto
 permalink: /about/
+author: 'Vinicius de Souza Marcon'
 ---
 
 O gene da escrita está presente no meu sangue desde que nasci, mas só o descobri quando adolescente. Comecei através de poesias, simples e reservadas ao meu círculo social próximo.
