@@ -1,3 +1,19 @@
+
+layout: post
+title:  "Os Sonhos de Cadu"
+date:   2024-02-07 19:30:25
+categories: drama
+image: /assets/images/dreams.jpg
+download_link: https://vsmarcon.github.io/ShortButGreatStories/drama/2024/02/07/os_sonhos_de_cadu.html
+textual_genre: Conto
+total_pages: 2
+sinopsis: 'kasjdklasjdalsk adsajkdlas
+daskljdaskl
+lkasjdlaksd
+<br> lkajsdkladj
+' 
+full_text: true
+
 mediator
 ========
 

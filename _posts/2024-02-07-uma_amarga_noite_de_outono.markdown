@@ -4,6 +4,8 @@ title:  "Uma amarga noite de outono"
 date:   2024-02-07 14:34:25
 categories: horror
 image: /assets/images/background_image_3.png
+full_text: true
+textual_genre: Conto
 ---
 A lua lá em cima brilhava fulgurante. Na rua não se ouvia um som sequer. O vento silencioso soprava uma corrente única o suficiente para marcar o momento na memória dos dois. Ele se aproximou um pouco mais, e pousou suavemente sua mão na da companheira. Um momento de silêncio, então:
 

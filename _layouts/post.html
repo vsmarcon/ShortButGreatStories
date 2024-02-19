@@ -46,18 +46,37 @@
         <br>
         <br>
         {% endif %}
-        <section class="pre-content">
-          <div class="pre-reading">
-            <span class="post-reading-time"></span> read
-          </div>
-          <a href="{{page.download_link}}">Download the e-book now</a>
-        </section>
         <section class="post-content">
           <div class="post-reading">
             <span class="post-reading-time"></span> read
           </div>
           <a name="topofpage"></a>
+          <div>
+            <h1 class="post-title">Ficha Técnica</h1>
+            
+            <p>Gênero Textual: {{page.textual_genre}}
+
+              {% if page.total_pages %}
+              <br>Páginas: {{page.total_pages}}
+              {% endif %}
+
+              {% if page.download_link %}
+              <br>
+                <a href="{{page.download_link}}">Download the e-book now</a>
+              {% endif %}
+            </p>
+            
+            <div class="cf post-meta-text">
+            </div>
+          </div>
+          {% if page.sinopsis %}
+          <h1 class="post-title">Sinopse</h1>
+          <p>{{page.sinopsis}}</p>
+          {% endif %}
+          {% if page.full_text %}
+          <h1 class="post-title">Texto na Íntegra</h1>
           {{content}}
+          {% endif %}
         </section>
         <footer class="post-footer">
           <section class="share">
