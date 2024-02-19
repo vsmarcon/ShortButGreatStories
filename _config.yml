@@ -8,7 +8,7 @@ title: "Short But Great Stories"
 description: > # this means to ignore newlines until "email:"
    Projeto de escrita independente, mas sou dependente de alma da escrita.
 
-email: a-mail@mail.mail
+email: viniciussouza31122002@gmail.com
 #blog logo
 logo: "/assets/images/sbgs_logo.png"
 float_logo: true # true, false (default)
@@ -36,13 +36,13 @@ baseurl: "/ShortButGreatStories"
 social:
   - icon:	instagram
     url:	https://instagram.com/_marc0n
-    desc: Follow me on Instagram
+    desc: Siga-me no Instagram
     # share_url: http://twitter.com/share
     # share_title: ?text=
     # share_link: "&amp;url="
   - icon:	mug-hot
     url:	https://www.buymeacoffee.com/sbgstories/
-    desc: Buy me a Coffee
+    desc: Suporte a página
 #    share_url: https://www.facebook.com/sharer.php
 #    share_title: ?t=
 #    share_link: "&amp;u="
