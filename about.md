@@ -1,17 +1,13 @@
 ---
 layout: page
-title: About
+title: Sobre o projeto
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+O gene da escrita está presente no meu sangue desde que nasci, mas só o descobri quando adolescente. Comecei através de poesias, simples e reservadas ao meu círculo social próximo.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+Mas em 2021, como uma tempestade, a influência dos contos Poe, Lovecraft e King inundaram meu plano criativo. Suas maneiras de contar histórias me incentivaram a buscar novas referências e experimentar novas técnicas e temáticas. 
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Agora, através deste portal, pretendo atingir mais pessoas, mas principalmente elevar o nível de elaboração de minhas criações, por meio de contos publicados periodicamente, em arquivos compatíveis digitais.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Obigado por visitar a página!
