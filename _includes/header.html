@@ -3,4 +3,7 @@
 {% if site.float_logo %}
   <a href="{{ site.url }}{{ site.baseurl }}" class="logo-readium"><span class="logo" style="background-image: url({{ site.logo | prepend: site.baseurl}})"></span></a>
 {% endif %}
+{% if site.float_logo %}
+  <a href="{{ site.english_page_url }}" class="logo-language"><img class="logo" src="{{ "/assets/images/en.png" | prepend: site.baseurl }}"></a>
+{% endif %}
 <!-- header end -->
